@@ -19,7 +19,6 @@ def count_class(file_path):
                 count_1 += 1
 
 
-
 original_folder = r"C:\Users\HP\Downloads\cam12_merge\merge_labels12"
 
 for filename in os.listdir(original_folder):
